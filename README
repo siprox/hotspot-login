@@ -1,0 +1,15 @@
+/*---------------------------------------------------------BEGIN---------------------------------------------------*/
+/*WOODTECH v.1.0 (Hotspot login mikrotik)*/
+/*Copyright : cw-12, Forummikrotik.com & Junkers :)*/
+/*Boleh dimodifikasi dan disebarluaskan, sepanjang mencantumkan credit!*/
+/*Themes ini menggunakan beberapa library :
+  - jquery
+	- jquery-ui
+	- jquery-example
+	- grid system 960.gs
+	- subtlepatterns.com
+(credits & respect to all creator mentioned above)
+*/
+/*Tested on ROS4.17 only, browser FF12,IE9 other not yet!*/
+/*Use at your own risk*/
+/*----------------------------------------------------------END---------------------------------------------------*/
